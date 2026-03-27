@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 export default function App() {
 
-  const whatsappNumber = "919876543210";
+  const whatsappNumber = "918838188022";
 
   const handleWhatsApp = () => {
     window.open(`https://wa.me/${whatsappNumber}`, "_blank");
